@@ -1,0 +1,17 @@
+For week 2
+
+Code the convolution for realistic IRF (Gaussian with added noise) - Generate single exponential with random parameters - Convolve and add noise
+
+Code the iterative convolution - Inputs are IRF and guesses for initial parameters
+
+For upcoming weeks
+
+how to generate synthetic data for FLIM and TCSPC
+
+Differentiating between single exponential and multiexponential
+
+How to guess the initial parameters
+
+
+
+
